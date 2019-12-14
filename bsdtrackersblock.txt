@@ -1,4 +1,4 @@
-www.google-analytics.com/collect
+https://www.google-analytics.com
 www.staticxx.facebook.com
 https://st.bebi.com
 https://adserver.adtech.advertising.com
