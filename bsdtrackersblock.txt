@@ -13,3 +13,4 @@ www.deloplen.com
 www.cdn.viglink.com
 www.c.amazon-adsystem.com
 www.googletagservices.com
+https://s3.amazonaws.com
