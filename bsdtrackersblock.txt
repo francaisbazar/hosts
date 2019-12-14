@@ -3,7 +3,7 @@ www.staticxx.facebook.com
 https://st.bebi.com
 https://adserver.adtech.advertising.com
 https://jsc.mgid.com/
-https://www.googletagmanager.com
+hhttps://www.google-analytics.com/collect
 www.referrer.disqus.com
 www.gogoanimetv.disqus.com
 www.disqus.com
