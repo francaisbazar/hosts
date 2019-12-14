@@ -1,9 +1,9 @@
 www.google-analytics.com/collect
 www.staticxx.facebook.com
-www.st.bebi.com
-www.adserver.adtech.advertising.com
-www.jsc.mgid.com
-www.googletagmanager.com
+https://st.bebi.com
+https://adserver.adtech.advertising.com
+https://jsc.mgid.com/
+https://www.googletagmanager.com
 www.referrer.disqus.com
 www.gogoanimetv.disqus.com
 www.disqus.com
