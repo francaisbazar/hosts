@@ -17,3 +17,4 @@ https://s3.amazonaws.com
 https://js.sddan.com
 https://syndication.twitter.com
 https://js.hs-scripts.com
+https://adserver.ariase.org
