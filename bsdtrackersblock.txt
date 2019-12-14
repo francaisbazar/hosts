@@ -1,6 +1,14 @@
 .google-analytics.com/collect
-.taticxx.facebook.com
+.staticxx.facebook.com
 .st.bebi.com
 .adserver.adtech.advertising.com
 .jsc.mgid.com
 .googletagmanager.com
+.referrer.disqus.com
+.gogoanimetv.disqus.com
+.disqus.com
+.disqus.com
+.glitter.services.disqus.com
+.deloplen.com
+.cdn.viglink.com
+
