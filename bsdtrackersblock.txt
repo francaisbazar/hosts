@@ -1,1 +1,6 @@
-www.google-analytics.com/collect
+.google-analytics.com/collect
+.taticxx.facebook.com
+.st.bebi.com
+.adserver.adtech.advertising.com
+.jsc.mgid.com
+.googletagmanager.com
