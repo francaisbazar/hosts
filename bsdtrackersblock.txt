@@ -20,3 +20,4 @@ https://js.hs-scripts.com
 https://adserver.ariase.org
 https://static.hotjar.com
 https://connect.facebook.net
+https://s7.addthis.com
