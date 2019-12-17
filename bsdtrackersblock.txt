@@ -22,3 +22,4 @@ https://static.hotjar.com
 https://connect.facebook.net
 https://s7.addthis.com
 https://connect.facebook.net/en_US/fbevents.js
+https://googleads.g.doubleclick.net
