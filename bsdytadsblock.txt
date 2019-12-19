@@ -109,6 +109,7 @@ r7---sn-fvf-jaxl.googlevideo.com
 r7---sn-p5h-g53e.googlevideo.com
 r7---sn-w5nuxa-2tmz.googlevideo.com
 r8---sn-3u-20ne.googlevideo.com
+r8---sn-jvhnu5g-n8me.googlevideo.com
 r8---sn-uxax4vopj5qx-cxgl.googlevideo.com
 r8---sn-p5h-g53e.googlevideo.com
 r9---sn-p5h-g53e.googlevideo.com
