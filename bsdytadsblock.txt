@@ -298,3 +298,5 @@ r4---sn-4g5edns6.googlevideo.com
 r5---sn-n4v7knlz.googlevideo.com
 r3---sn-h0jeener.googlevideo.com
 r1---sn-p5qs7ner.googlevideo.com
+r3---sn-25ge7nsk.googlevideo.com
+r3---sn-ab5l6n67.googlevideo.com
