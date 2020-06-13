@@ -301,3 +301,5 @@ r1---sn-p5qs7ner.googlevideo.com
 r3---sn-25ge7nsk.googlevideo.com
 r3---sn-ab5l6n67.googlevideo.com
 r1---sn-aigzrn7l.googlevideo.com
+r2---sn-tt1eln7e.googlevideo.com
+r3---sn-5hne6nlr.googlevideo.com
