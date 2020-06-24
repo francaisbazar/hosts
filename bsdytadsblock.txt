@@ -1,9 +1,4 @@
 
-#
-adservice.google.com
-googleads.g.doubleclick.net
-id.google.com
-pagead2.googlesyndication.com
 r1---sn-4g5e6nle.googlevideo.com
 r1---sn-5goeen7k.googlevideo.com
 r1---sn-5hne6n7z.googlevideo.com
@@ -112,12 +107,6 @@ r8---sn-3u-20ne.googlevideo.com
 r8---sn-jvhnu5g-n8me.googlevideo.com
 r8---sn-uxax4vopj5qx-cxgl.googlevideo.com
 
-securepubads.g.doubleclick.net
-tpc.googlesyndication.com
-www.googleadservices.com
-www.google-analytics.com
-www.googletagmanager.com
-www.googletagservices.com
 r2---sn-ab5sznld.googlevideo.com
 r4---sn-p5qs7n7d.googlevideo.com
 r1---sn-ab5l6n67.googlevideo.com
