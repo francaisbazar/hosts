@@ -301,7 +301,7 @@ r1---sn-hgn7rn7y.googlevideo.com
 r4---sn-uvu-c33e7.googlevideo.com
 r3---sn-i3beln7z.googlevideo.com
 r3---sn-4g5e6nsz.googlevideo.com
-r2---sn-hgn7yn7s.googlevideo.com
+
 r4---sn-4g5e6nzl.googlevideo.com
 
 r5---sn-p5h-jhoe.googlevideo.com
