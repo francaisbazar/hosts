@@ -12,7 +12,7 @@ r1---sn-8ph2xajvh-3w5e.googlevideo.com
 r1---sn-a5mekner.googlevideo.com
 r1---sn-ab5l6n6s.googlevideo.com
 r1---sn-c0q7lnly.googlevideo.com
-r1---sn-hgn7yn7s.googlevideo.com
+
 
 r2---sn-3tp8nu5g-ig3e.googlevideo.com
 r2---sn-4g5e6nez.googlevideo.com
@@ -293,7 +293,7 @@ r6---sn-p5qs7n7z.googlevideo.com
 r4---sn-vgqsrn7s.googlevideo.com
 r2---sn-i3b7knld.googlevideo.com
 r5---sn-ab5szn7k.googlevideo.com
-r4---sn-aigzrn7s.googlevideo.com
+
 
 r4---sn-uvu-c33e7.googlevideo.com
 r3---sn-i3beln7z.googlevideo.com
